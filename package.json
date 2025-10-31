@@ -1,0 +1,33 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricky6227/profilesapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ricky6227/profilesapp/issues"
+  },
+  "homepage": "https://github.com/ricky6227/profilesapp#readme",
+  "devDependencies": {
+    "@aws-amplify/backend": "^1.17.0",
+    "@aws-amplify/backend-cli": "^1.8.0",
+    "aws-cdk-lib": "^2.216.0",
+    "constructs": "^10.4.2",
+    "esbuild": "^0.25.11",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "aws-amplify": "^6.15.7"
+  }
+}
